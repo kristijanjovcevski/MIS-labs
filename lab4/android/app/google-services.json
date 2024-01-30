@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018091038707",
+    "project_id": "lab4-4e141",
+    "storage_bucket": "lab4-4e141.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018091038707:android:ae98175b440434110dd486",
+        "android_client_info": {
+          "package_name": "com.MIS.lab4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS21_VzhP3bk8BEhQVXK58tqRzgECMUxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
